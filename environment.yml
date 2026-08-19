@@ -1,0 +1,16 @@
+name: HostPred
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - biopython
+  - streamlit
+  - jupyter
